@@ -2,8 +2,8 @@
 
 import React from 'react';
 
-import SurveyForm from './components/SurveyForm';
-import SurveyRanking from './components/SurveyRanking';
+import SurveyForm from '../components/SurveyForm';
+import SurveyRanking from '../components/SurveyRanking';
 
 export default function Home() {
   return (

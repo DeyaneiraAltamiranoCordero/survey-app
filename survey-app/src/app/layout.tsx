@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import React from 'react';
-import { SurveyProvider } from './contexts/SurveyContext';
+import { SurveyProvider } from '../contexts/SurveyContext';
 
 const inter = Inter({ subsets: ['latin'] })
 
